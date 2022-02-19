@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "sourceMap": true, // allow sourcemap support
+    "strictNullChecks": true, // enable strict null checks as a best practice
+    "strict": true,
+    "target": "es2021", // specify ECMAScript target version
+    "module": "es2022",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "declaration": true,
+    "outDir": "./dist",
+    "incremental": true
+  },
+  "include": ["src/keyby.ts"],
+  "exclude": ["node_modules"]
+}

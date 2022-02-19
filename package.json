@@ -1,0 +1,35 @@
+{
+  "name": "keyby",
+  "version": "1.0.0",
+  "description": "A typescript implementation of keyby method, inspired by lodash.keyby",
+  "main": "dist/keyby.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cloudacy/keyby.git"
+  },
+  "keywords": [
+    "keyby",
+    "lodash",
+    "helper",
+    "method",
+    "key",
+    "by",
+    "keyBy"
+  ],
+  "author": "Patrick Kuen <p.kuen@cloudacy.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cloudacy/keyby/issues"
+  },
+  "homepage": "https://github.com/cloudacy/keyby#readme",
+  "devDependencies": {
+    "c8": "^7.11.0",
+    "typescript": "^4.5.5",
+    "vitest": "^0.4.1"
+  }
+}
