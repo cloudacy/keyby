@@ -2,13 +2,13 @@ lockfileVersion: 5.3
 
 specifiers:
   c8: ^7.11.0
-  typescript: ^4.5.5
-  vitest: ^0.4.1
+  typescript: ^4.6.2
+  vitest: ^0.7.0
 
 devDependencies:
   c8: 7.11.0
-  typescript: 4.5.5
-  vitest: 0.4.1_c8@7.11.0
+  typescript: 4.6.2
+  vitest: 0.7.0_c8@7.11.0
 
 packages:
 
@@ -675,8 +675,8 @@ packages:
     engines: {node: '>=4'}
     dev: true
 
-  /typescript/4.5.5:
-    resolution: {integrity: sha512-TCTIul70LyWe6IJWT8QSYeA54WQe8EjQFU4wY52Fasj5UKx88LNYKCgBEHcOMOrFF1rKGbD8v/xcNWVUq9SymA==}
+  /typescript/4.6.2:
+    resolution: {integrity: sha512-HM/hFigTBHZhLXshn9sN37H085+hQGeJHJ/X7LpBWLID/fbc2acUMfU+lGD98X81sKP+pFa9f0DZmCwB9GnbAg==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
@@ -714,8 +714,8 @@ packages:
       fsevents: 2.3.2
     dev: true
 
-  /vitest/0.4.1_c8@7.11.0:
-    resolution: {integrity: sha512-zDqUYOUoyBiC0DgWw9RyQqhUktaFA+hJmrZskYrnVslSuZiuzI7SYj2GmXGwHvSx1FfdWI5lRFN9IWB7Ug5cYg==}
+  /vitest/0.7.0_c8@7.11.0:
+    resolution: {integrity: sha512-qLq4VEWJRyhscfzjhlNA+mrCrBQ2Vh7M9ew90yudOfoNUT0ilmFdRriRMN8m8BkKw/7txoTvT1X3oQB7B4Pk3A==}
     engines: {node: '>=14.14.0'}
     hasBin: true
     peerDependencies:
