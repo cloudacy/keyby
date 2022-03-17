@@ -1,6 +1,6 @@
 {
   "name": "keyby",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A typescript implementation of keyby method, inspired by lodash.keyby",
   "exports": "./dist/keyby.js",
   "types": "./dist/keyby.d.ts",
